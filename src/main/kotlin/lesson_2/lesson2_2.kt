@@ -9,7 +9,6 @@ fun main() {
     val sumOfSalaryAll = sumOfSalaryEmployees + numberOfInterns * salaryOfInterns
     val numberOfAll = numberOfEmployees + numberOfInterns
     val averageSalaryAll = sumOfSalaryAll / numberOfAll
-
     println(sumOfSalaryEmployees)
     println(sumOfSalaryAll)
     println(averageSalaryAll)
